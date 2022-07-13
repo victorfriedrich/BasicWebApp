@@ -14,7 +14,7 @@ public class QueryProcessor {
         } else if (query.contains("name")) {
            return "MyTeam";
         } else { // TODO extend the programm here
-            // Changes
+            // Changes 2
             return "";
         }
     }
